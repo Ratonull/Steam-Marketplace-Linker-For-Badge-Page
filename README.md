@@ -12,7 +12,7 @@ This userscript adds a "Go to Marketplace" button to your Steam badge page. When
 1. **Install a Userscript Manager**: You'll need a userscript manager extension for your web browser. If you don't have one installed, you can use [Tampermonkey](https://www.tampermonkey.net/) for Chrome or [Greasemonkey](https://www.greasespot.net/) for Firefox.
 
 2. **Install the Script**:
-   - Visit the following URL to open the script on GitHub: [Steam Marketplace Linker On Badge Page](https://github.com/YourGitHubUsername/steam-marketplace-linker/raw/main/steam-marketplace-linker.user.js).
+   - Visit the following URL to open the script on GitHub: [Steam Marketplace Linker On Badge Page](https://github.com/R4r3s/steam-marketplace-linker/raw/main/steam-marketplace-linker.user.js).
    - Your userscript manager should detect the script and prompt you to install it. Click the "Install" or "Add" button in the prompt.
 
 3. **Usage**:
