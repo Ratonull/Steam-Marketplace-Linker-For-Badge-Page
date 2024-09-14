@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Adds a button to Steam badge page to link to game marketplace items.
 // @author       R4r3s
-// @match        https://steamcommunity.com/id/*/badges/
+// @match        https://steamcommunity.com/id/*/badges
 // @grant        none
 // ==/UserScript==
 
