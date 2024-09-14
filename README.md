@@ -1,4 +1,4 @@
-# Steam Marketplace Linker On Badge Page
+# Steam Marketplace Linker For Badge Page
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
